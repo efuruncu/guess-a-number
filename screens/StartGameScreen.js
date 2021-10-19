@@ -97,7 +97,8 @@ screen:{
 },
 title:{
     fontSize:20,
-    marginVertical:10
+    marginVertical:10,
+    fontFamily:'open-sans-bold'
 },
 button:{
     width:100
@@ -105,6 +106,7 @@ button:{
 input:{
     width:35,
     textAlign:'center'
+    
 },
 summaryContainer:{
     marginTop:20,
